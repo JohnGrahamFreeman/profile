@@ -98,3 +98,16 @@ ul > li {
   padding: 30px;
   border: 1px solid lightgrey;
 }
+
+#sidebar {
+  background: white;
+  position: fixed;
+  width: 150px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
+
+#page-content {
+  margin-left: 300px;
+}
