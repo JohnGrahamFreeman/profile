@@ -1,6 +1,6 @@
 body {
   color: #7d7d7d;
-  background: #EBEBEB;
+  background: #cbc;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -25,7 +25,7 @@ a {
 }
 
 a:hover {
-  color:red;
+  color:blue;
 }
 
 .card {
@@ -51,7 +51,7 @@ ul > li {
 }
 
 .button {
-  background: #DD5555;
+  background: purple;
   padding: 10px 15px;
   color: white;
   font-weight: bolder;
@@ -64,7 +64,7 @@ ul > li {
 }
 
 .container {
-  width: 500px;   /* This sets the width */
+  width: 500px auto;   /* This sets the width */
   margin: 0 auto; /* This automatically sets left/right margins */
 }
 
